@@ -9,3 +9,14 @@ Data Visualization: Generate detailed graphs and charts to showcase COVID-19 tre
 Data Processing: Clean, aggregate, and analyze COVID-19 datasets.
 
 Matplotlib/Seaborn for Plotting: Visualize data with powerful Python libraries.
+
+**Installation**
+
+Clone the Repository:
+git clone https://github.com/papxoxo/covid-analysis.git
+cd covid-analysis
+
+Set Up the Environment:
+pip install -r requirements.txt
+
+Run the Main Script: index.py 
